@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh Prajapat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right"alt="coding"width="400"src="![image](https://github.com/user-attachments/assets/ae6e49bc-e371-4f77-ac6f-7996191b36b2)">
+![image](https://github.com/user-attachments/assets/ae6e49bc-e371-4f77-ac6f-7996191b36b2)
 
 
 
